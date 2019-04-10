@@ -1,0 +1,35 @@
+
+
+.logo{
+	padding-top: 5%;
+	text-align: center;
+	background-color: #fff;
+	height: 100%;
+	font-family: italic;
+	width: 100%;
+}
+.logo a{
+	text-decoration: none;
+	color: #000;
+}
+.home{ 
+	margin: 0 auto;
+	height: 100%;
+	padding-top: 3%;
+	width: 100%;
+	text-align: center;
+	padding-top: 5%;
+}
+.home a{
+	text-decoration: none;
+	font-size: 20px;
+	color: #fff;
+}
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+  h5 {
+  	padding-top: 10px;
+  }
+
