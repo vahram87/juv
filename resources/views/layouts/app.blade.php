@@ -9,10 +9,9 @@
         <!-- Fonts -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
-        <link rel="stylesheet" type="text/css" href="{{secure_asset('/css/app.css')}}">
-        
-        <link rel="stylesheet" type="text/css" href="{{secure_asset('/css/home.css')}}">
-        <script src="{{URL::asset('/js/app.js')}}"></script>
+        <link rel="stylesheet" type="text/css" href="{{asset('/css/app.css')}}">
+        <link rel="stylesheet" type="text/css" href="{{asset('/css/home.css')}}">
+        <script src="{{asset('/js/app.js')}}"></script>
 </head>
 <body>
 	<div class="wrapper">
